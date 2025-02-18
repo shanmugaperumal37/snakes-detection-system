@@ -1,0 +1,2 @@
+0 snakes
+1 not snakes
